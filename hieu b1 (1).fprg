@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.1"/>
+        <attribute name="authors" value="User"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-11-26 08:41:22 AM"/>
+        <attribute name="created" value="VXNlcjtUREFULTAxMTAwNjsyMDI1LTExLTE4OzAxOjExOjA4IFBNOzIzMzI="/>
+        <attribute name="edited" value="VXNlcjtUREFULTAxMTAwNjsyMDI1LTExLTE4OzAxOjE0OjEwIFBNOzE7MjQzNg=="/>
+        <attribute name="edited" value="SFA7REVTS1RPUC1DQU5OM1JROzIwMjUtMTEtMjY7MDg6NDE6MjIgQU07MTsyNjEw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Sinh vien Tran Minh Hieu&quot;" newline="True"/>
+            <output expression="&quot;MSV 245752021610155&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
