@@ -1,5 +1,5 @@
 
-print("############################")
+print('ho ten: Tran Minh Hieu; mssv245752021610155')
 class Circle:
     def __init__(self, radius):
         self.radius = radius
@@ -16,3 +16,4 @@ circle = Circle(radius)
 
 print("Diện tích hình tròn là:", circle.area())
 print("Chu vi hình tròn là:", circle.perimeter())
+
