@@ -1,5 +1,5 @@
 
-print("########################")
+print('ho ten: Tran Minh Hieu; mssv245752021610155')
 
 def checkValue(n):
     if n%2 == 0:
@@ -8,3 +8,4 @@ def checkValue(n):
         print ("day la so le")
 checkValue(4)
                
+
