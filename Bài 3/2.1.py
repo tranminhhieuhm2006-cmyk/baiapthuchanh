@@ -1,5 +1,5 @@
 
-print("ho ten:tran minh hieu:msv 245752021610155")
+print('ho ten:tran minh hieu;msv 245752021610155')
 
 def sum(a, b):
  print("sum = " + str(a+b))
@@ -7,4 +7,5 @@ def sum(a, b):
 sum(5, 8)
 # tinh tong 2 so 0,4
 sum(0, 4)
+
 
