@@ -1,5 +1,5 @@
 
-print("############################")
+print('ho ten: Tran Minh Hieu; mssv245752021610155')
 class StringModifier:
     def __init__(self):
         self.input_string = ""
@@ -14,3 +14,4 @@ class StringModifier:
 modifier = StringModifier()
 modifier.get_String()
 modifier.print_String()
+
