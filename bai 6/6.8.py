@@ -1,5 +1,5 @@
 
-print("############################")
+print('ho ten: Tran Minh Hieu; mssv245752021610155')
 class Bank:
     Account_type = "Savings"
     location = "Guntur"
@@ -75,3 +75,4 @@ def Exit(self):
 
 t1 = Bank('mahseh', 1453210145, 5000)
 print(t1)
+
