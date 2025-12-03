@@ -1,5 +1,5 @@
 
-print("########################")
+print('ho ten: Tran Minh Hieu; mssv245752021610155')
 
 def say_hello():
     a= "Hello"
@@ -7,3 +7,4 @@ def say_hello():
 
 result = say_hello()
 print(result)
+
