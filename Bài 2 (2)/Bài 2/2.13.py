@@ -1,4 +1,5 @@
-
+print("Tran Minh Hieu")
+print("_msv:245752021610155")
 import math
 #Nhap cac he so a, b, c tu ban phim
 a = float(input("Nhap he so a: "))
@@ -24,3 +25,4 @@ else:
     print("phuong trinh ko co nghiem thuc")
     
     
+
