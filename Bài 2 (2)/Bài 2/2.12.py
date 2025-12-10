@@ -1,4 +1,5 @@
-
+print("Tran Minh Hieu")
+print("_msv:245752021610155")
 import re
 value = []
 items = [x for x in input("nhap mat khau").split(',')]
@@ -22,3 +23,4 @@ for p in items:
         pass
     value.append(p)
     print(",".join(value))
+
