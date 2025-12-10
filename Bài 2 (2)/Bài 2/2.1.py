@@ -1,5 +1,5 @@
 print("Tran Minh Hieu")
-print("_msv: 245752021610155
+print("_msv:245752021610155")
 n1 = int(input("enter n1 value"))
 n2 = int(input("enter n2 value"))
 if n1>n2:
@@ -7,4 +7,5 @@ if n1>n2:
 else:
     print("n2 is big")
     
+
 
